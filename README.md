@@ -6,4 +6,4 @@
 
 🌱 Currently, I’m working on projects involving data visualization, exploratory data analysis, and machine learning to sharpen my skills and build a strong portfolio.
 
-📫 How to reach me: Connect with me on LinkedIn or check out my projects [here](https://github.com/ainnawahid/Portfolio)!
+📫 How to reach me: Connect with me on LinkedIn or check out my [__portfolio__](https://github.com/ainnawahid/Portfolio)!
